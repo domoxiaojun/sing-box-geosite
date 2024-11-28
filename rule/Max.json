@@ -1,0 +1,20 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "arkoselabs.com",
+        "branch.io",
+        "brightline.tv",
+        "discomax.com",
+        "litix.io",
+        "max.com",
+        "media.h264.io",
+        "ngtv.io",
+        "pypestream.com",
+        "warnermediacdn.com",
+        "wmcdp.io"
+      ]
+    }
+  ],
+  "version": 2
+}
