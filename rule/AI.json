@@ -1,0 +1,52 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "ai.google.dev",
+        "aistudio.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "api-iam.intercom.io",
+        "api.statsig.com",
+        "apple-relay.apple.com",
+        "apple-relay.cloudflare.com",
+        "apple-relay.fastly-edge.com",
+        "bard.google.com",
+        "chatgpt.livekit.cloud",
+        "copilot.microsoft.com",
+        "cp4.cloudflare.com",
+        "gateway.ai.cloudflare.com",
+        "gemini.google.com",
+        "generativelanguage.googleapis.com",
+        "guzzoni.apple.com",
+        "imagine.meta.com",
+        "o33249.ingest.sentry.io",
+        "openaiapi-site.azureedge.net",
+        "proactivebackend-pa.googleapis.com",
+        "sfo3.turn.livekit.cloud",
+        "sydney.bing.com",
+        "www.bing.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "openaicom"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "anthropic.com",
+        "chatgpt.com",
+        "claude.ai",
+        "githubcopilot.com",
+        "grazie.ai",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "openai.com",
+        "perplexity.ai",
+        "pplx.ai",
+        "smoot.apple.com"
+      ]
+    }
+  ],
+  "version": 2
+}

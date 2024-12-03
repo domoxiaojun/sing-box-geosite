@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "a-vrv.akamaized.net",
+        "crunchyroll.com",
+        "crunchyrollcdn.com",
+        "crunchyrollsvc.com",
+        "e0vemjple0l1luii7h5vlu5no.litix.io",
+        "vrv.co"
+      ]
+    }
+  ],
+  "version": 2
+}
