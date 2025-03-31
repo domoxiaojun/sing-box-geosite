@@ -4,6 +4,7 @@
       "domain": [
         "ai.google.dev",
         "aistudio.google.com",
+        "alkalicore-pa.clients6.google.com",
         "alkalimakersuite-pa.clients6.google.com",
         "api-iam.intercom.io",
         "api.statsig.com",
@@ -11,18 +12,15 @@
         "apple-relay.cloudflare.com",
         "apple-relay.fastly-edge.com",
         "bard.google.com",
-        "chatgpt.livekit.cloud",
         "copilot.microsoft.com",
         "cp4.cloudflare.com",
         "gateway.ai.cloudflare.com",
         "gemini.google.com",
-        "generativelanguage.googleapis.com",
         "guzzoni.apple.com",
         "imagine.meta.com",
         "o33249.ingest.sentry.io",
         "openaiapi-site.azureedge.net",
-        "proactivebackend-pa.googleapis.com",
-        "sfo3.turn.livekit.cloud",
+        "pplx-res.cloudinary.com",
         "sydney.bing.com",
         "www.bing.com"
       ]
@@ -31,22 +29,41 @@
       "domain_keyword": [
         "labs.google",
         "notebooklm.google",
+        "openaiapi",
         "openaicom"
       ]
     },
     {
       "domain_suffix": [
         "anthropic.com",
+        "chat.com",
         "chatgpt.com",
         "claude.ai",
+        "cursor-cdn.com",
+        "cursor.com",
+        "cursor.sh",
+        "cursorapi.com",
+        "deepmind.com",
+        "deepmind.google",
+        "geller-pa.googleapis.com",
+        "generativeai.google",
+        "generativelanguage.googleapis.com",
         "githubcopilot.com",
         "grazie.ai",
+        "grok.com",
+        "groq.com",
+        "livekit.cloud",
+        "makersuite.google.com",
+        "meta.ai",
         "oaistatic.com",
         "oaiusercontent.com",
         "openai.com",
         "perplexity.ai",
         "pplx.ai",
-        "smoot.apple.com"
+        "proactivebackend-pa.googleapis.com",
+        "smoot.apple.com",
+        "sora.com",
+        "x.ai"
       ]
     }
   ],
