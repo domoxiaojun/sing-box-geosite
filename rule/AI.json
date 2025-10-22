@@ -36,6 +36,7 @@
     },
     {
       "domain_suffix": [
+        "abtest-sg.byteoversea.com",
         "anthropic.com",
         "chat.com",
         "chatgpt.com",
@@ -48,6 +49,7 @@
         "cursorapi.com",
         "deepmind.com",
         "deepmind.google",
+        "dola.com",
         "geller-pa.googleapis.com",
         "generativeai.google",
         "generativelanguage.googleapis.com",
