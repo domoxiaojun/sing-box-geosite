@@ -37,6 +37,7 @@
     {
       "domain_suffix": [
         "anthropic.com",
+        "apps.mzstatic.com",
         "byteoversea.com",
         "chat.com",
         "chatgpt.com",
@@ -51,6 +52,7 @@
         "deepmind.com",
         "deepmind.google",
         "dola.com",
+        "gateway.icloud.com",
         "geller-pa.googleapis.com",
         "generativeai.google",
         "generativelanguage.googleapis.com",
