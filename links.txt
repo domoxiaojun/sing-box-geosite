@@ -10,3 +10,4 @@ https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master
 https://github.com/blackmatrix7/ios_rule_script/blob/master/rule/Clash/Instagram/Instagram.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Threads/Threads.list
 https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Whatsapp/Whatsapp.list
+https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/refs/heads/master/rule/Clash/Apple/Apple.list
